@@ -88,7 +88,7 @@ Requisitos não funcionais
 
 
 ## Sprint 1. Concepção
-- [x] Defina o propósito do template;
+- [x] Defina o propósito do nosso projeto;
 - [x] Identifique os elementos principais;
 - [x] Esboce o layout;
 - [x] Escolha cores e fontes;
@@ -97,6 +97,7 @@ Requisitos não funcionais
 - [ ] Documente instruções de uso;
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
+- [ ] boa
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [ ] Documento passo a passo;
