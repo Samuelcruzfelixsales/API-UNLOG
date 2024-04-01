@@ -97,8 +97,14 @@ Requisitos não funcionais
 - [ ] Documente instruções de uso;
 - [ ] Criação do vídeo;
 - [x] Finalize e aprovação.
-- [x] boa
-  ] 
+- [x] Criar nome para empresa
+- [ ] Criar equipe
+- [ ] Designar atividade para os integrantes da equipe
+- [ ] Criar relatório de atividades
+- [ ] Estruturar o Jira Sofwtare
+- [ ] Estruturar o Github
+- [ ] Fazer backlog do protudo
+  
 
 
 ## Sprint 2. Desenvolvimento do Projeto
