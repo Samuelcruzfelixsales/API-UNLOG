@@ -96,8 +96,10 @@ Requisitos não funcionais
 - [ ] Teste e revise;
 - [ ] Documente instruções de uso;
 - [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-- [ ] boa
+- [x] Finalize e aprovação.
+- [x] boa
+  ] 
+
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [ ] Documento passo a passo;
